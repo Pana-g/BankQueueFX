@@ -1,10 +1,12 @@
 A simple Bank queue java program
 ======
-Visual demonstration, with the help of **javafx** library, of a simple queue bank system. This program created for academic purposes. Feel free to use it as you like.
+Visual demonstration, with the help of **Javafx** library, of a simple queue bank system. This program created for academic purposes. Feel free to use it as you like.
+
+![BankFX](https://rawcdn.githack.com/Pana-g/BankQueueFX/546044f469489048848f0f34617bf8ef90014923/bankFX.gif)
 
 INSTRUCTIONS ABOUT BANK PROGRAM
 ------
-The executable can be found under **__Bank/out/artifacts/Bank/__**
+The executable can be found in **__Bank\out\artifacts\Bank\Bank.jar__**
 The server has tested on both Windows and Linux systems. For Windows systems it requires **java 8** or greater and for Linux it requires **openjdk-8-jre** or greater plus **openjfx**. For Linux systems you can install requirements by:
 ```
 sudo apt-get install openjdk-8-jre && sudo apt-get install openjfx
