@@ -4,7 +4,7 @@ Visual demonstration, with the help of **javafx** library, of a simple queue ban
 
 INSTRUCTIONS ABOUT BANK PROGRAM
 ------
-The executable can be found in **__Bank\out\artifacts\Bank\Bank.jar__**
+The executable can be found under **__Bank/out/artifacts/Bank/__**
 The server has tested on both Windows and Linux systems. For Windows systems it requires **java 8** or greater and for Linux it requires **openjdk-8-jre** or greater plus **openjfx**. For Linux systems you can install requirements by:
 ```
 sudo apt-get install openjdk-8-jre && sudo apt-get install openjfx
